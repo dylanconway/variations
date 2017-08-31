@@ -1,3 +1,3 @@
 == DESCRIPTION ==
 
-This project generates name variationz.
+This project generates name variations.
